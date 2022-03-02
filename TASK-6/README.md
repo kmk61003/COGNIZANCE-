@@ -4,11 +4,13 @@
 
 ![Pixel cut](https://github.com/kmk61003/COGNIZANCE-/blob/main/TASK-3/Web%201920%20%E2%80%93%201.png)
 
+
 ## Theme:-
 
 * This is a photo editing software that provides you a good amout of editing tools.
 
 * You can buy our premium to unlock many other tools.
+
 
 
 ## Motive:-
@@ -17,6 +19,7 @@
 
 * We want to reach and provide our app to all our customers who are waiting eagerly for the best photo editing application.
 
+* And we want to provide the best and hassle free editing app 
 
 
 ## Future Improvements:-
